@@ -4,8 +4,8 @@ Privacy Policy of Infinium DiscordBot
 # Privacy Policy
 
 ### By using **[Infinium](https://discord.com/oauth2/authorize?client_id=795594104200626176&scope=bot&permissions=8)**, you agree to the following **Privacy Policy.**
-####[Invite Infinium](https://discord.com/oauth2/authorize?client_id=795594104200626176&scope=bot&permissions=8)
-####[Website](https://linktr.ee/Infinium_)
+#### [Invite Infinium](https://discord.com/oauth2/authorize?client_id=795594104200626176&scope=bot&permissions=8)
+#### [Website](https://linktr.ee/Infinium_)
 
 ## What information is stored?
 
