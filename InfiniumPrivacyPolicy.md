@@ -53,5 +53,5 @@ Clearing this data does not clear blacklist data or muted data.*
 ##### This policy was last updated on January 11th, 2021.
 
 
-##[Invite Infinium](https://discord.com/oauth2/authorize?client_id=795594104200626176&scope=bot&permissions=8)
-##[Website](https://linktr.ee/Infinium_)
+## [Invite Infinium](https://discord.com/oauth2/authorize?client_id=795594104200626176&scope=bot&permissions=8)
+## [Website](https://linktr.ee/Infinium_)
