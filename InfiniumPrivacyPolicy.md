@@ -50,7 +50,7 @@ Clearing this data does not clear blacklist data or muted data.*
 **If you want more detailed removal of your data, [Join our Discord Server](https://discord.gg/ra6u8hfpZF) and request it.**
 
 ### ***Note: __We reserve the right to change this without notifying our users.__***
-##### This policy was last updated on January 11th, 2021.
+##### This policy was last updated on January 19th, 2021.
 
 
 ## [Invite Infinium](https://discord.com/oauth2/authorize?client_id=795594104200626176&scope=bot&permissions=8)
